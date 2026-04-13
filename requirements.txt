@@ -1,0 +1,13 @@
+# ─── Web Framework ───
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+
+# ─── AI / ML ───
+torch==2.7.0
+transformers==4.51.3
+
+# ─── Request validation ───
+pydantic==2.11.1
+
+
+
